@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082691939477",
+    "project_id": "posttest-7-mobile-agim",
+    "storage_bucket": "posttest-7-mobile-agim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082691939477:android:b51746afa2ab17572a7f9c",
+        "android_client_info": {
+          "package_name": "com.example.posttest7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082691939477-p8f53fedvtafk79sci754iunu41cli1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHHbGnRQpiwAPCdxTIOwYTBIDe4R7Ue8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082691939477-p8f53fedvtafk79sci754iunu41cli1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
